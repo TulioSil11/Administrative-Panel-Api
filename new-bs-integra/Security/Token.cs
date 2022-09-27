@@ -30,7 +30,6 @@ namespace new_bs_integra.Security
             var clains = new[]
             {
                  new Claim(JwtRegisteredClaimNames.UniqueName, user.Usuariobd),
-                 new Claim("Brunsker", "Brunsker"),
                  new Claim("AcessAdmin", $"{user.IdPerfil}"),
                  new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
 

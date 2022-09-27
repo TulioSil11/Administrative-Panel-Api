@@ -553,3 +553,13 @@ C:\Users\thudi\Downloads\Projetos\PainelAdmin\bsintegra.paineladmin\new-bs-integ
 C:\Users\thudi\Downloads\Projetos\PainelAdmin\bsintegra.paineladmin\new-bs-integra\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\thudi\Downloads\Projetos\PainelAdmin\bsintegra.paineladmin\new-bs-integra\bin\Debug\net6.0\Dapper.dll
 C:\Users\thudi\Downloads\Projetos\PainelAdmin\bsintegra.paineladmin\new-bs-integra\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.csproj.AssemblyReference.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.AssemblyInfoInputs.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.AssemblyInfo.cs
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.csproj.CoreCompileInputs.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\refint\new-bs-integra.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\Administrative-Panel-Api\new-bs-integra\obj\Debug\net6.0\new-bs-integra.pdb

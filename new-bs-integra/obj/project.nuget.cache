@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cIXAMpqK2rqm2qwl0FH5lOieafJsrgjI5ECVvRFJETJ+InsUobTWmRwmzdvlROg9wQqLNnFaTQTfT7QdNtBG2w==",
+  "dgSpecHash": "R21T5e5VrMdrQw+Iu7y03SyRLjVXaSSLEmUnJl2+vIDnRYlgjKZjEGGkHpZjpR8bS7Mz4/e5sq3/sj7o3kzHLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\bsintegra.paineladmin\\new-bs-integra\\new-bs-integra.csproj",
+  "projectFilePath": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\Administrative-Panel-Api\\new-bs-integra\\new-bs-integra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thudi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\thudi\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

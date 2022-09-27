@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\bsintegra.paineladmin\\new-bs-integra\\new-bs-integra.csproj": {}
+    "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\Administrative-Panel-Api\\new-bs-integra\\new-bs-integra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\bsintegra.paineladmin\\new-bs-integra\\new-bs-integra.csproj": {
+    "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\Administrative-Panel-Api\\new-bs-integra\\new-bs-integra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\bsintegra.paineladmin\\new-bs-integra\\new-bs-integra.csproj",
+        "projectUniqueName": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\Administrative-Panel-Api\\new-bs-integra\\new-bs-integra.csproj",
         "projectName": "new-bs-integra",
-        "projectPath": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\bsintegra.paineladmin\\new-bs-integra\\new-bs-integra.csproj",
+        "projectPath": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\Administrative-Panel-Api\\new-bs-integra\\new-bs-integra.csproj",
         "packagesPath": "C:\\Users\\thudi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\bsintegra.paineladmin\\new-bs-integra\\obj\\",
+        "outputPath": "C:\\Users\\thudi\\OneDrive\\Área de Trabalho\\Estudos\\Administrative-Panel-Api\\new-bs-integra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
